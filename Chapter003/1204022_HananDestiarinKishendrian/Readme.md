@@ -1,0 +1,1 @@
+link video penjelasan chapter 2 : https://youtu.be/M3Jl5pB-l4Q

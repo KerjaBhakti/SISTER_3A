@@ -5,7 +5,7 @@ import time
 LOG_FORMAT = '%(asctime)s %(threadName)-17s %(levelname)-8s %(message)s'
 logging.basicConfig(level=logging.INFO, format=LOG_FORMAT)
 
-steps = 5
+steps = 7
 sleeptime = 1
 
 items = []
