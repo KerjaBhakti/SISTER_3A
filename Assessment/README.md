@@ -6,3 +6,7 @@ Pada proses assessment ini akan dilakukan secara langsung terkait program yang h
 2. Silahkan buat folder baru pada link tersebut terdiri dari NPM_Nama
 3. Isi kedua dokumen tersebut dengan biodata pribadi
 
+## Kumpulkan tugas disini
+[ASSESSMENT FILE](https://github.com/kerjabhakti/SISTER_3A/tree/main/TugasBesar)
+Lakukan PUll REQUEST pada folder diatas
+
