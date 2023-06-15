@@ -51,10 +51,10 @@ kerjakan perkelompok
 | 7 | 1204020 | Muhammad Nur Fajri |❌|❌ | ✔️|70 |OK |
 | 8 | 1204007 |  Wulan Nur Annisah |✔️ |✔️ | ✔️|100 |OK |
 | 9 | 1204021 | Mayke Andani Rohmaniar |✔️ |✔️ | ✔️|100 |OK |
-| 9 | 1204027 | Mustika Tiara Triani Br.Sirait | | | | | |
+| 9 | 1204027 | Mustika Tiara Triani Br.Sirait|✔️ |✔️ | ✔️|100 |OK |
 | 9 | 1204003 | Kholida Magfirah|✔️ |✔️ | ✔️|100 |OK |
-| 9 | 0 | 0 | | | | | |
-| 9 | 0 | 0 | | | | | |
+| 9 | 1204016  | Dani Ardika Rahmadani | | | | | |
+| 9 | 1204017 | Surahmat | | | | | |
 | 9 | 0 | 0 | | | | | |
 | 9 | 0 | 0 | | | | | |
 | 9 | 0 | 0 | | | | | |
