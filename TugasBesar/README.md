@@ -51,16 +51,12 @@ kerjakan perkelompok
 | 7 | 1204020 | Muhammad Nur Fajri |❌|❌ | ✔️|70 |OK |
 | 8 | 1204007 |  Wulan Nur Annisah |✔️ |✔️ | ✔️|100 |OK |
 | 9 | 1204021 | Mayke Andani Rohmaniar |✔️ |✔️ | ✔️|100 |OK |
-| 9 | 1204027 | Mustika Tiara Triani Br.Sirait|✔️ |✔️ | ✔️|100 |OK |
-| 9 | 1204003 | Kholida Magfirah|✔️ |✔️ | ✔️|100 |OK |
-| 9 | 1204016  | Dani Ardika Rahmadani | | | | | |
-| 9 | 1204017 | Surahmat | | | | | |
-| 9 | 0 | 0 | | | | | |
-| 9 | 0 | 0 | | | | | |
-| 9 | 0 | 0 | | | | | |
-| 9 | 0 | 0 | | | | | |
-
-
+| 10 | 1204027 | Mustika Tiara Triani Br.Sirait|✔️ |✔️ | ✔️|100 |OK |
+| 11| 1204003 | Kholida Magfirah|✔️ |✔️ | ✔️|100 |OK |
+| 12| 1204016  | Dani Ardika Rahmadani | | | | | |
+| 13| 1204017 | Surahmat | | | | | |
+| 14| 1204004 | Jose Chasey Pratama | | | | | |  
+| 15| 1204025 | Christian Yuda Pratama | | | | | |
 
 # PRESENTASI KEDUA
 1204008 Anggina Syarif, 1204009 Dani Rahman Hasibuan, 1204019 Adli Gunawan Bastin
