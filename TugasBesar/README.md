@@ -53,7 +53,7 @@ kerjakan perkelompok
 | 9 | 1204021 | Mayke Andani Rohmaniar |✔️ |✔️ | ✔️|100 |OK |
 | 10 | 1204027 | Mustika Tiara Triani Br.Sirait|✔️ |✔️ | ✔️|100 |OK |
 | 11| 1204003 | Kholida Magfirah|✔️ |✔️ | ✔️|100 |OK |
-| 12| 1204016  | Dani Ardika Rahmadani | | | | | |
+| 12| 1204016  | Dani Ardika Rahmadani |❌|❌ | ✔️|70 |OK 
 | 13| 1204017 | Surahmat | | | | | |
 | 14| 1204004 | Jose Chasey Pratama|✔️ |✔️ | ✔️|100 |OK |  
 | 15| 1204025 | Christian Yuda Pratama|✔️ |✔️ | ✔️|100 |OK |
