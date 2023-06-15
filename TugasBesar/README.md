@@ -49,8 +49,8 @@ kerjakan perkelompok
 | 5 | 1204011 | Wildan Azril Arvany |✔️ |✔️ | ✔️|100 |OK |
 | 6 | 1204010 | Azhari Hasibuan |❌ |❌ |❌ |0 | Tidak Mengerjakan |
 | 7 | 1204020 | Muhammad Nur Fajri |❌|❌ | ✔️|70 |OK |
-| 8 | 1204007 |  Wulan Nur Annisah| | | | | |
-| 9 | 1204021 | Mayke Andani Rohmaniar | | | | | |
+| 8 | 1204007 |  Wulan Nur Annisah |✔️ |✔️ | ✔️|100 |OK |
+| 9 | 1204021 | Mayke Andani Rohmaniar |✔️ |✔️ | ✔️|100 |OK |
 | 9 | 0 | 0 | | | | | |
 | 9 | 0 | 0 | | | | | |
 | 9 | 0 | 0 | | | | | |
